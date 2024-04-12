@@ -1,0 +1,58 @@
+.one_Imgdisplay_first-display {
+    background-image: url("../../assets/Imgdisplay.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px; /* Adjusted height */
+    justify-content: center;
+    position: relative; /* Add position relative */
+}
+
+
+/* Add semi-transparent overlay */
+.one_Imgdisplay_first-display::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+    border-radius: 10px;
+}
+
+.one_Imgdisplay_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+.one_Imgdisplay_img-text span {
+    color: red;
+}
+
+.one_Imgdisplay_img-text {
+    /* position: relative; */
+    text-align: center;
+    font-size: 70px; /* Adjusted font size */
+    color: white;
+}
+
+.one_Imgdisplay_one_h1 {
+    position: relative;
+    text-align: center;
+    font-size: 25px; /* Adjusted font size */
+    color: white;
+    font-weight: 500;
+    line-height: 1; /* Adjusted line height */
+}
+
+.one_Imgdisplay_img-text, .one_Imgdisplay_one_h1 {
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE/Edge */
+    user-select: none; /* Standard */
+  }
