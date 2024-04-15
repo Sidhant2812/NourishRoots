@@ -40,7 +40,7 @@ const Login = () => {
         </div>
         <div className="one_Signup_col one_Signup_image_col">
           <div className="one_Signup_vision-image-container">
-            <img src="https://img.freepik.com/free-photo/female-volunteer-with-gloves-holding-food-donation-box_23-2148733762.jpg?w=740&t=st=1712875520~exp=1712876120~hmac=846ae050d0cbad893eb328bb94cbd0f9a1ae1d8312a5e7e48e6911a897f97d78" />
+            <img src="https://as1.ftcdn.net/v2/jpg/01/36/52/14/1000_F_136521474_JbJFYciwXIFPfy9v3Vko3hG7YKPNvYc5.jpg" />
           </div>
         </div>
       </div>

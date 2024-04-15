@@ -1,9 +1,9 @@
 .one_Imgdisplay_first-display {
-    background-image: url("../../assets/Imgdisplay.jpg");
+    background-image: url("../../assets/imggg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 450px; /* Adjusted height */
+    height: 400px; /* Adjusted height */
     justify-content: center;
     position: relative; /* Add position relative */
 }

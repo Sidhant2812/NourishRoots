@@ -2,8 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: black;
-  padding: 10px 20px;
+  color: #322d2c; /* Tomato color */
+  padding: 15px 25px; /* Increased padding for a bolder look */
   user-select: none;
 }
 
@@ -15,55 +15,51 @@
 .one_Navbar_right-side ul {
   list-style: none;
   display: flex;
-  gap: 20px;
-  padding-top: 8px;
+  gap: 30px; /* Increased gap for better separation */
+  padding-top: 10px; /* Increased padding for better spacing */
 }
 
 .one_Navbar_right-side ul li {
   display: inline;
-  font-size: 20px;
-  padding: 0px 7px;
+  font-size: 22px; /* Increased font size for better readability */
+  padding: 0px 10px; /* Increased padding for better spacing */
 }
 
 .one_Navbar_right-side ul li a {
   text-decoration: none;
-  color: black;
+  color: #000; /* Black color */
   padding-top: 5px;
 }
 
 .one_Navbar_right-side ul li {
   text-decoration: none;
-  color: black;
+  color: #000; /* Black color */
   padding-top: 5px;
-  text-decoration: none;
-  
 }
 
-.one_Navbar_link
-{
+.one_Navbar_link {
   text-decoration: none;
-  font-size: 20px;
-  padding: 4px 7px;
-  color: black;
+  font-size: 22px; /* Increased font size for better readability */
+  padding: 6px 10px; /* Increased padding for better spacing */
+  color: #000; /* Black color */
+  transition: transform 0.3s ease;
 }
 
-.one_Navbar_link:hover
-{
-  transform: scale(1.05);
-  color: red;
+.one_Navbar_link:hover {
+  transform: scale(1.1); /* Increased scale for a more noticeable hover effect */
+  color: #ff6347; /* Tomato color */
 }
+
 .one_Navbar_website-name {
-  font-size: 20px;
+  font-size: 36px; /* Increased font size for a bolder look */
   font-weight: bold;
-  font-size: 30px;
 }
 
 .one_Navbar_right-side ul li:hover {
-  transform: scale(1.05);
-  color: red;
+  transform: scale(1.1); /* Increased scale for a more noticeable hover effect */
+  color: #ff6347; /* Tomato color */
 }
 
 .one_Navbar_right-side ul li a:hover {
-  color: red;
-  /* font-weight: bold; */
+  color: #ff6347; /* Tomato color */
 }

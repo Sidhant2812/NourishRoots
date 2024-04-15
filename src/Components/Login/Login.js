@@ -10,7 +10,7 @@ const Login = () => {
           <div className="one_Login_one_myform">
             <form>
               <div style={{textAlign:'center'}}>
-                <h1>Login</h1>
+                <h1>Sign In</h1>
               </div>
               <div>
                 <input   className="one_Login_inputi" type="text" placeholder="Username" id="username" autoComplete="off"/>
@@ -34,7 +34,7 @@ const Login = () => {
         </div>
         <div className="one_Login_col one_Login_image_col">
           <div className="one_Login_vision-image-container">
-            <img src="https://img.freepik.com/premium-vector/volunteers-box-concept_118813-4962.jpg?w=740" />
+            <img src="https://st2.depositphotos.com/4297405/6329/v/600/depositphotos_63299517-stock-illustration-illustration-representing-a-child-sitting.jpg" />
           </div>
         </div>
       </div>

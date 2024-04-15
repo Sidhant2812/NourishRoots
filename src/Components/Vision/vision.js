@@ -8,16 +8,19 @@ const Vision = () => {
       <div className="one_Vision_row">
         <div className="one_Vision_col">
           <p className="one_Vision_vision-text">
-            At Foodbridge, we envision a world where no one goes hungry, where every individual has access to nutritious food, and where communities thrive through collective efforts to combat hunger and food insecurity.
-            FoodBridge is a platform that connects restaurants, businesses, individuals, and guest houses with NGOs and charitable organizations to facilitate food donations and support those in need. We believe that by leveraging technology and fostering partnerships, we can make a meaningful impact in the fight against hunger.
-            We are committed to empowering restaurants and businesses to donate surplus food, reducing food waste, and redistributing resources to where they are most needed. By providing a seamless and efficient platform for food donations, we aim to streamline the process and maximize the impact of each contribution.
-            z
-            Furthermore, we seek to raise awareness about the issue of hunger and inspire others to join us in our mission. Through education, advocacy, and community engagement, we aim to build a network of compassionate individuals and organizations dedicated to eradicating hunger and building a more equitable society. Together, we can make a difference and create a future where hunger is no longer a barrier to a healthy and thriving life.
+            At NourishRoots, our overarching vision is deeply anchored in a profound dedication to fostering a world where every individual, regardless of their socio-economic status or geographic location, has equitable access to nutritious food. This guiding principle is epitomized by our pioneering Nutritional Analysis System.
+            Integral to our mission is the recognition of the indispensable role of collaboration and partnership. Through strategic alliances with restaurants, businesses, and NGOs, we embark on a collective journey to mitigate food wastage and combat the pervasive issue of hunger that afflicts communities worldwide.
+
+            Guided by the principles encapsulated within Sustainable Development Goal Target 2.2, we are unwavering in our commitment to addressing the multifaceted challenges of malnutrition and advancing initiatives that foster holistic community health and vitality.
+
+            Our vision extends far beyond mere philanthropy; it is a resounding call to action, an impassioned plea to catalyze transformative change on a global scale. Together, we envisage a future where the specter of hunger is eradicated, and the seeds of nourishment and prosperity are sown in every corner of the world.
+
+            We extend a heartfelt invitation to all individuals and organizations who share in our aspirations to join us on this noble quest. Together, let us work tirelessly towards realizing a brighter, more equitable future for generations to come.
           </p>
         </div>
         <div className="one_Vision_col">
           <div className="one_Vision_vision-image-container">
-            <img src="https://img.freepik.com/free-photo/medium-shot-smiley-people-with-food-donations_23-2149142843.jpg?t=st=1712854290~exp=1712857890~hmac=3d23293b04a14fb0ca1634885cf8937e76cc33c537d338019c77d4fe9936175e&w=826" alt="People with Food Donations" />
+            <img src="https://helpfoundation.in/wp-content/uploads/2022/06/GIVING-FOOD-TO-HUNGRY-facebook.jpg" alt="People with Food Donations" />
           </div>
         </div>
       </div>

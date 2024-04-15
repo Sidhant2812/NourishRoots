@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="one_Footer_footer">
       <div className="one_Footer_heading-footer">
-        Food<span>Bridge</span>
+        Nourish<span>Roots</span>
       </div>
       <div className="div1">
         <h4 className="one_Footer_footer-h4">Who We Are</h4>

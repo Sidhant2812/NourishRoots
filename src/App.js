@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar/Navbar';
 import Vision from './Components/Vision/vision'
 import Login from './Components/Login/Login';
 import Signup from './Components/Signup/signup'
+
 import Delievery from './Components/Delievery/Delievery'
 import Testimonial from './Components/Testimonial/Testimonial'
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="Vision" element={<Vision/>}/>
         <Route path="Login" element={<Login/>}/>
         <Route path="Signup" element={<Signup/>}/>
+       
         <Route path="Delievery" element={<Delievery/>}/>
         <Route path="Testimonial" element={<Testimonial/>}/>
       </Routes>

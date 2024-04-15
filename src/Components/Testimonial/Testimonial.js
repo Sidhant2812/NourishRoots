@@ -12,28 +12,29 @@ const Testimonials = () => {
         <div className="snip1533">
           <figcaption>
             <blockquote>
-              <p>As an NGO representative working with FoodBridge, I've witnessed firsthand the incredible impact this platform has on our community. FoodBridge seamlessly connects us with generous food donors, ensuring that surplus meals reach those in need efficiently. Platform's intuitive interface and dedicated support team make the donation process effortless. With FoodBridge, we can focus on our mission to alleviate hunger.</p>
+              <p>"Having partnered with NourishRoots, I've been amazed by the positive change it brings to our community. NourishRoots facilitates seamless connections between food donors and those in need, ensuring that nutritious meals reach every corner efficiently. The platform's user-friendly interface and exceptional support team simplify the donation process, allowing us to focus on our mission of combating hunger effectively.
+</p>
             </blockquote>
-            <h3>Asha Patel</h3>
-            <h5>Annakshetra Foundation</h5>
+            <h3>Sanskriti Sharma</h3>
+            <h5>Seva Foundation</h5>
           </figcaption>
         </div>
         <div className="snip1533">
           <figcaption>
             <blockquote>
-              <p>"Collaborating with FoodBridge has revolutionized operations for our restaurant. It not only curbs food wastage by facilitating surplus food donations but also amplifies our community involvement. FoodBridge offers a user-friendly platform to schedule pickups, monitor donations, and avail tax benefits seamlessly. We find solace in knowing that our extra food finds its way to those in need.</p>
+              <p>"Working alongside NourishRoots has been a game-changer for our organization. The platform's efficiency in linking food surplus with those in need is commendable. With its user-friendly features and dedicated support, NourishRoots empowers us to make a meaningful impact on the lives of our community members.</p>
             </blockquote>
-            <h3>Neha Sharma</h3>
+            <h3>Rahul Patel</h3>
             <h5>Restaurant Owner</h5>
           </figcaption>
         </div>
         <div className="snip1533">
           <figcaption>
             <blockquote>
-              <p>"Being a delivery agent for FoodBridge has been a rewarding experience. I take pride in delivering meals from donors to NGOs, knowing that I'm part of a system that fights food insecurity. FoodBridge's advanced routing technology ensures that deliveries are optimized for efficiency, allowing me to cover more ground and deliver more meals in less time. It's fulfilling to be a part of FoodBridge</p>
+              <p>"Thanks to NourishRoots, I've been able to put nutritious meals on my family's table during challenging times. As a single parent struggling to make ends meet, having access to food donations through NourishRoots has been a blessing. The support I've received has not only relieved the burden of food insecurity but has also restored my hope for a better future. NourishRoots is more than just a platform.</p>
             </blockquote>
-            <h3>Rajesh Sharma</h3>
-            <h5>delivery Agent</h5>
+            <h3>Rajesh Kumar</h3>
+            <h5>Beneficiary</h5>
           </figcaption>
         </div>
       </div>
